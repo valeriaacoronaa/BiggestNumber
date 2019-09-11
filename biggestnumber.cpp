@@ -29,7 +29,7 @@ int main()
   std::cout<<"Of those two numbers, the biggest is: " << biggest << "\n";
   //print out the variable representing the biggest number
 
-  std::cout<<std::<<"Thank you for playing.\n";
+  std::cout<<"Thank you for playing.\n";
   
   return 0;
 }
